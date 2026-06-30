@@ -1,7 +1,7 @@
 # Export Control & Compliance Statement
 
 ## 1. Product Classification & Legal Counsel
-* **Item Name:** Lecture-Laser-Ablation-in-Dentistry-Moving-Beyond-the-Scalpel
+* **Item Name:** Lecture Laser Ablation in Dentistry Moving Beyond the Scalpel
 * **Jurisdiction:** U.S. Department of Commerce (Bureau of Industry and Security - BIS)
 * **Classification Status:** EAR99 (Medical Device Software / SaMD)
 * **Retained Counsel:** Fox Rothschild LLP (Medical Technology & International Trade Groups)
