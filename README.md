@@ -4,7 +4,7 @@ Welcome to the official repository for the academic lecture and operational guid
 
 ---
 
-## ⚖️ Regulatory Notice & Repository Governance
+## Regulatory Notice & Repository Governance
 To maintain complete alignment with GitHub Trust & Safety guidelines, FDA software data frameworks, and institutional compliance, this repository operates under strict operational boundaries:
 
 * **Pure Formulaic Models:** Any computational workflows, simulation scripts, or calibration parameters embedded in these clinical training materials rely strictly on models from existing medical formulas and equations. 
@@ -13,18 +13,18 @@ To maintain complete alignment with GitHub Trust & Safety guidelines, FDA softwa
 
 ---
 
-## 📂 Repository Contents & File Directory
+## Repository Contents & File Directory
 This repository hosts comprehensive presentation materials, operational safety checklists, and legal governance records:
 
-### 📖 Lecture Materials
+### Lecture Materials
 * `Lecture Laser Ablation in Dentistry – Moving Beyond the Scalpel.docx`: Full text manuscript and presentation outline.
 * `Lecture Laser Ablation in Dentistry – Moving Beyond the Scalpel.pdf`: Formatted and print-ready version of the complete lecture.
 
-### 🛠️ Clinical Verification & Checklists
+### Clinical Verification & Checklists
 * `checklist for all laser-based dental and oncological procedures.docx`: Structured procedural checklist for light-energy clinical applications.
 * `checklist for all laser-based dental and oncological procedures.pdf`: Print-ready safety and execution checklist.
 
-### 🛡️ Compliance & Safety Architecture
+### Compliance & Safety Architecture
 * `DISCLAIMER.md`: Primary data minimization and mathematical modeling statement.
 * `DISCLAIMER_GENERAL_REFERENCE.md`: Specific non-device Clinical Decision Support boundary document.
 * `DISCLAIMER_GENERAL_WELLNESS.md`: Operational boundaries for wellness and non-diagnostic tracking.
@@ -34,7 +34,7 @@ This repository hosts comprehensive presentation materials, operational safety c
 
 ---
 
-## 🏛️ Legal Administration & Corporate Support
+## Legal Administration & Corporate Support
 This clinical training portfolio is actively monitored and legally managed. To maintain strict regulatory safety records, do **NOT** use public GitHub Issues or public Pull Requests to submit procedural feedback, software bugs, or compliance inquiries.
 
 All repository support, content updates, custom medical formula integrations, formal complaints, and compliments must be routed exclusively to our designated legal counsel:
